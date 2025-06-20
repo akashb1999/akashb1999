@@ -41,6 +41,18 @@ I'm currently:
 ![PwC US - Consulting](https://img.shields.io/badge/PwC-Management%20Consulting-orange?style=flat-square&logo=pwc&logoColor=white)
 
 
+## 🚀 Skills
+
+### 🖥️ Programming Languages
+| Language     | Skill Level |
+|--------------|-------------|
+| 🐍 Python     | ██████████░░ 90% |
+| 🔵 C          | █████████░░░ 80% |
+| 🌐 HTML       | ██████████░░ 95% |
+| 🎨 CSS        | ██████████░░ 90% |
+| ⚡ JavaScript | ████████░░░░ 70% |
+| 🤖 Generative AI | ██████░░░░░░ 60% |
+
 ---
 
 ## 🌱 Currently Learning:

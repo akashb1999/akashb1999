@@ -25,17 +25,19 @@ I'm currently:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚙️ Frameworks & Tools:
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 🤖 AI & Data:
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+## 🏅 Certifications
+![BCG X - GenAI](https://img.shields.io/badge/BCG%20X-Generative%20AI%20Chatbot%20Dev-blueviolet?style=flat-square&logo=bcg&logoColor=white)
+![Deloitte - Data Analytics](https://img.shields.io/badge/Deloitte-Data%20Analytics-brightgreen?style=flat-square&logo=deloitte&logoColor=white)
+![Deloitte - Technology](https://img.shields.io/badge/Deloitte-Software%20Development-green?style=flat-square&logo=deloitte&logoColor=white)
+![Tata Group - GenAI](https://img.shields.io/badge/Tata%20Group-GenAI%20Data%20Analytics-blue?style=flat-square&logo=tata&logoColor=white)
+![PwC US - Consulting](https://img.shields.io/badge/PwC-Management%20Consulting-orange?style=flat-square&logo=pwc&logoColor=white)
+
 
 ---
 
@@ -46,15 +48,14 @@ I'm currently:
 
 ---
 
-## 📂 Projects
-👁‍🗨 AI-Based Shelf-Life Prediction Tool (Image Input Based)  
+## 📂 Projects  
 🔗 [More projects coming soon – Stay tuned!]
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](www.linkedin.com/in/akash-bhattacharyya45)  
+[!] [LinkedIn](www.linkedin.com/in/akash-bhattacharyya45)  
 📧 akashbhattacharyya45@gmail.com
 
 ---

@@ -1,3 +1,5 @@
+<img src="ChatGPT Image Jun 20, 2025, 09_39_38 PM.png" alt="Akash Bhattacharyya Cover" style="width:100%; border-radius:12px;" />
+
 # 👋 Hi there! I'm Akash Bhattacharyya
 
 🎓 M.Sc. Student | 🧪 Food Tech Enthusiast | 💻 AI & Web Developer | 🛠️ Exploring Generative AI

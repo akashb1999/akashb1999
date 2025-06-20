@@ -56,7 +56,7 @@ I'm currently:
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/Akash%20Bhattacharyya-LinkedIn-blue?style=flat&logo=linkedin)] (www.linkedin.com/in/akash-bhattacharyya45)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] (mailto:akashbhattacharyya45@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] (akashbhattacharyya45@gmail.com)
 
 ---
 

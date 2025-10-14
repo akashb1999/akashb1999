@@ -11,7 +11,7 @@
 With a solid foundation in **Food Technology** and hands-on QA experience in the **F&B industry**, I'm now transitioning into the world of **software development and AI**.
 
 I'm currently:
-- Pursuing M.Sc. in Food Safety & Quality Management
+- Pursuing M.S. in Food Safety & Quality Management
 - Learning and building projects in **Python**, **Web Dev**, and **Generative AI**
 - Passionate about merging **tech + food science** to solve real-world problems
 

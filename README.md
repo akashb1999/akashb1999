@@ -2,7 +2,7 @@
 
 # 👋 Hi there! I'm Akash Bhattacharyya
 
-🎓 M.Sc. Student | 🧪 Food Tech Enthusiast | 💻 AI & Web Developer | 🛠️ Exploring Generative AI
+🎓 M.S. Student | 🧪 Food Tech Enthusiast | 💻 AI & Web Developer | 🛠️ Exploring Generative AI
 
 ---
 
